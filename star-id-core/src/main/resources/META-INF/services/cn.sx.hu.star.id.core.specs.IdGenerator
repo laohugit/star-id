@@ -1,0 +1,2 @@
+cn.sx.hu.star.id.core.generator.impl.IdUUIDGenerator
+cn.sx.hu.star.id.core.generator.impl.IdSnowflakeGenerator

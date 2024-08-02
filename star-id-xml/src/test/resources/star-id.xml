@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<id>
+    <dc code="cn">
+        <worker ip="192.168.10.121,192.168.222.3,192.168.184.1" port="8081"/>
+    </dc>
+</id>

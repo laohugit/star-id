@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<id>
+    <dc code="beijing">
+        <worker ip="192.168.10.101" port="8081"/>
+        <worker ip="192.168.10.101" port="8082"/>
+        <worker ip="192.168.10.101" port="8083"/>
+    </dc>
+    <dc code="shanghai">
+        <worker ip="192.168.10.111" port="8081"/>
+        <worker ip="192.168.10.112" port="8081"/>
+        <worker ip="192.168.10.113" port="8081"/>
+    </dc>
+    <dc code="shenzhen" group="futian">
+        <worker ip="192.168.10.121,192.168.222.3,192.168.184.1" port="8081"/>
+    </dc>
+</id>
